@@ -8,8 +8,8 @@ KeilC51 compiler. It has the following features:
   - Suspend/Resume tasks
   - Mutexes
   - Binary Semaphores
-  -2.5kbyte code footprint with keil level 7 optimizer
-  - RAM footprint starting from 25 bytes iram + 80 bytes xram, xram grows
+  - 2.5kbyte code footprint with keil level 7 optimizer
+  - RAM footprint starting from 25 bytes iram + 80 bytes xram, xram grows
 according to number of tasks and priorities
   - User deﬁned trap for erroneous behavior
   - Preeptive or cooperative
